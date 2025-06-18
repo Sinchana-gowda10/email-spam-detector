@@ -1,4 +1,7 @@
+
 # 📧 Email Spam Detection - Machine Learning Project
+<img src="preview.png" width="600"/>
+
 
 Detects spam emails using a Naive Bayes classifier with 98% accuracy.
 
